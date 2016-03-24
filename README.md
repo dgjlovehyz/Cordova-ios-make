@@ -1,6 +1,8 @@
 # shareByOther
 Get any great articles，and save
+
 文章来源：http://www.cnblogs.com/yaann/p/5110236.html
+
 C4－Cordova在iOS平台的使用
 
 一、创建工程及运行
